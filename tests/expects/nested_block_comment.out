@@ -1,0 +1,3 @@
+hey          line 8 cols 15-17 is T_Identifier 
+*            line 8 cols 19-19 is T_Star 
+/            line 8 cols 20-20 is T_Slash 

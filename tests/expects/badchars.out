@@ -1,0 +1,41 @@
+a            line 1 cols 1-1 is T_Identifier 
+
+*** Error line 1.
+*** Unrecognized char: '!'
+
+a            line 1 cols 3-3 is T_Identifier 
+
+*** Error line 1.
+*** Unrecognized char: '@'
+
+a            line 1 cols 5-5 is T_Identifier 
+
+*** Error line 1.
+*** Unrecognized char: '#'
+
+a            line 1 cols 7-7 is T_Identifier 
+
+*** Error line 1.
+*** Unrecognized char: '$'
+
+a            line 1 cols 9-9 is T_Identifier 
+
+*** Error line 1.
+*** Unrecognized char: '%'
+
+a            line 1 cols 11-11 is T_Identifier 
+
+*** Error line 1.
+*** Unrecognized char: '^'
+
+a            line 1 cols 13-13 is T_Identifier 
+
+*** Error line 1.
+*** Unrecognized char: '&'
+
+a            line 1 cols 15-15 is T_Identifier 
+
+*** Error line 1.
+*** Unrecognized char: '|'
+
+a            line 1 cols 17-17 is T_Identifier 
