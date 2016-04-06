@@ -1,0 +1,15 @@
+glc
+sftp-config.json
+*.c
+*.cc
+*.o
+*~
+core
+*.core
+*.h
+Makefile
+*.txt
+*.md
+submission.sh
+samples
+*.l
